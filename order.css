@@ -1,0 +1,10 @@
+* {
+    margin: 50px;
+    padding: 20%;
+}
+
+body {
+    background: url("service.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
